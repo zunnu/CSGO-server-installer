@@ -1,4 +1,4 @@
-# CS-GO-server-installer
+# CSGO-server-installer
 This script is based on LGSM from Daniel Gibbs (dgibbs64) https://github.com/dgibbs64/linuxgsm
 
 <h2>Main features</h2>

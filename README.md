@@ -11,6 +11,7 @@ This script is based on LGSM from Daniel Gibbs (dgibbs64) https://github.com/dgi
 	<li>Update (SteamCMD)</li>
 	<li>Start/Stop/Restart server</li>
 	<li>Announce Server Restart</li>
+	<li>Announce Backup start and end</li>
   <li>Announce Server Shutdown</li>
   <li>Send msg go to server</li>
 </ul>

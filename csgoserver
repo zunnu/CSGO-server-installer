@@ -56,7 +56,7 @@ parms="-game csgo -usercon -strictportbind -ip ${ip} -port ${port} +clientport $
 appid="740"
 
 # Server Details
-servicename="csgo-server_asd"
+servicename="csgo-server"
 gamename="Counter Strike: Global Offensive"
 engine="source"
 
@@ -653,7 +653,7 @@ fn_header(){
 clear
 echo "================================="
 echo "${gamename}"
-echo "Linux Game Server Manager"
+echo "Linux csgo installer"
 echo "by Juhani Aronen"
 echo "================================="
 echo ""
